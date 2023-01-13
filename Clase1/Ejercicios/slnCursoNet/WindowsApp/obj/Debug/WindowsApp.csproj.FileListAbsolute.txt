@@ -1,0 +1,11 @@
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Clase1\Ejercicios\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.exe.config
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Clase1\Ejercicios\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Clase1\Ejercicios\slnCursoNet\WindowsApp\bin\Debug\WindowsApp.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Clase1\Ejercicios\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.AssemblyReference.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Clase1\Ejercicios\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.SuggestedBindingRedirects.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Clase1\Ejercicios\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Clase1\Ejercicios\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Clase1\Ejercicios\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Clase1\Ejercicios\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Clase1\Ejercicios\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Clase1\Ejercicios\slnCursoNet\WindowsApp\obj\Debug\WindowsApp.pdb

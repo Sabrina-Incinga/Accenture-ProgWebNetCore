@@ -1,0 +1,17 @@
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\bin\Debug\WindowsEF.exe.config
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\bin\Debug\WindowsEF.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\bin\Debug\WindowsEF.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\bin\Debug\EntityFramework.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\bin\Debug\EntityFramework.SqlServer.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\bin\Debug\EntityFramework.xml
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\bin\Debug\EntityFramework.SqlServer.xml
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.csproj.AssemblyReference.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.csproj.SuggestedBindingRedirects.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.Properties.Resources.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.csproj.GenerateResource.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.csproj.CoreCompileInputs.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.csproj.CopyComplete
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.Migrations.initial.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.Migrations.cambioTablas.resources

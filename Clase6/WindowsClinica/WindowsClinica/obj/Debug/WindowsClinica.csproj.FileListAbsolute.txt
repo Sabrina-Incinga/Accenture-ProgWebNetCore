@@ -1,0 +1,16 @@
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\bin\Debug\WindowsClinica.exe.config
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\bin\Debug\WindowsClinica.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\bin\Debug\WindowsClinica.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\bin\Debug\EntityFramework.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\bin\Debug\EntityFramework.SqlServer.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\bin\Debug\EntityFramework.xml
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\bin\Debug\EntityFramework.SqlServer.xml
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\obj\Debug\WindowsClinica.csproj.AssemblyReference.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\obj\Debug\WindowsClinica.csproj.SuggestedBindingRedirects.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\obj\Debug\WindowsClinica.Properties.Resources.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\obj\Debug\WindowsClinica.csproj.GenerateResource.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\obj\Debug\WindowsClinica.csproj.CoreCompileInputs.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\obj\Debug\WindowsClinica.csproj.CopyComplete
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\obj\Debug\WindowsClinica.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\obj\Debug\WindowsClinica.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsClinica\WindowsClinica\obj\Debug\WindowsClinica.Migrations.initial.resources

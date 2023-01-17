@@ -19,6 +19,7 @@ namespace WindowsEFEscuela.Models
         public string Nombre { get; set; }
         [Column(TypeName ="varchar"), StringLength(50), Required]
         public string Titulo { get; set; }
+        public List<Alumno> Alumnos { get; set; }
 
     }
 }

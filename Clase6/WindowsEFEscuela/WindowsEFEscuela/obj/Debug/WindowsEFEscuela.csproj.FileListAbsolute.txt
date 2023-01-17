@@ -16,3 +16,5 @@ H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\Win
 H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.initial.resources
 H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.updateTable.resources
 H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.updateTable2.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.relaciones.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Form1.resources

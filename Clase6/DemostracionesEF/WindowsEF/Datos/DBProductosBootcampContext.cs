@@ -17,5 +17,6 @@ namespace WindowsEF.Datos
 
         //propiedades DBSET
         public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Producto> Productos { get; set; }
     }
 }

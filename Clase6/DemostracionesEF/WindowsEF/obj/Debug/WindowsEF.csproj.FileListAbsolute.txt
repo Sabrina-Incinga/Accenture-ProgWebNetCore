@@ -15,3 +15,6 @@ H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\Dem
 H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.pdb
 H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.Migrations.initial.resources
 H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.Migrations.cambioTablas.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.Migrations.updateFK.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.frmCategoria.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase6\DemostracionesEF\WindowsEF\obj\Debug\WindowsEF.frmProducto.resources

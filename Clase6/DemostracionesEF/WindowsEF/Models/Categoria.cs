@@ -15,8 +15,8 @@ namespace WindowsEF.Models
 
         [Column(TypeName ="varchar"),StringLength(50), Required]
         public string Nombre { get; set; }
-
-        [Column(TypeName ="money")]
-        public decimal? Algo { get; set; }//nullable
+        public List<Producto> Productos { get; set; }
+        /*[Column(TypeName ="money")]
+        public decimal? Algo { get; set; }//nullable*/
     }
 }

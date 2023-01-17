@@ -8,7 +8,7 @@ using WindowsEFEscuela.Models;
 
 namespace WindowsEFEscuela.Datos
 {
-    internal class DbEscuelaBootcampContext : DbContext
+    public class DbEscuelaBootcampContext : DbContext
     {
         public DbEscuelaBootcampContext() : base("KeyDb")
         {

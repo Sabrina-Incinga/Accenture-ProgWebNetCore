@@ -18,6 +18,9 @@ namespace WindowsEFEscuela.Models
         [Column(TypeName = "varchar"), StringLength(50), Required]
         public string Apellido { get; set; }
         public DateTime? FechaNacimiento { get; set; }
+        public int ProfesorId { get; set; }
+        [ForeignKey("ProfesorId")]
+        private Profesor Profesor { get; set; }
 
     }
 }

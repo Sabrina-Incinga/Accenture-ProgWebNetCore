@@ -1,0 +1,17 @@
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\bin\Debug\WindowsEFDatos.exe.config
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\bin\Debug\WindowsEFDatos.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\bin\Debug\WindowsEFDatos.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\bin\Debug\EntityFramework.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\bin\Debug\EntityFramework.SqlServer.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\bin\Debug\EntityFramework.xml
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\bin\Debug\EntityFramework.SqlServer.xml
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\obj\Debug\WindowsEFDatos.csproj.AssemblyReference.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\obj\Debug\WindowsEFDatos.csproj.SuggestedBindingRedirects.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\obj\Debug\WindowsEFDatos.Properties.Resources.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\obj\Debug\WindowsEFDatos.csproj.GenerateResource.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\obj\Debug\WindowsEFDatos.csproj.CoreCompileInputs.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\obj\Debug\WindowsEFDatos.csproj.CopyComplete
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\obj\Debug\WindowsEFDatos.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\obj\Debug\WindowsEFDatos.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\obj\Debug\WindowsEFDatos.Migrations.initial.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\WindowsEFDatos\obj\Debug\WindowsEFDatos.frmAvion.resources

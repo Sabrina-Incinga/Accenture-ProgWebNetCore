@@ -1,0 +1,6 @@
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\LibTransportes\bin\Debug\LibTransportes.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\LibTransportes\bin\Debug\LibTransportes.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\LibTransportes\obj\Debug\LibTransportes.csproj.AssemblyReference.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\LibTransportes\obj\Debug\LibTransportes.csproj.CoreCompileInputs.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\LibTransportes\obj\Debug\LibTransportes.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TPFinal\SLNPOOApellidoNombre\LibTransportes\obj\Debug\LibTransportes.pdb

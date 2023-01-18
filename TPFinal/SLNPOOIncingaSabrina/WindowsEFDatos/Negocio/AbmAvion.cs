@@ -21,5 +21,20 @@ namespace WindowsEFDatos.Negocio
         {
             return dac.Insertar(avion);
         }
+
+        public static Avion BuscarPorId(int id)
+        {
+            return dac.BuscarPorId(id);
+        }
+
+        public static int Actualizar(Avion avion)
+        {
+            return dac.Actualizar(avion);
+        }
+
+        public static int Eliminar(int id)
+        {
+            return dac.Eliminar(id);
+        }
     }
 }

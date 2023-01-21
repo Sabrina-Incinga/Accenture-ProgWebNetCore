@@ -1,0 +1,11 @@
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TareaInvestigacion\LineaAerea\LineaAerea\bin\Debug\LineaAerea.exe.config
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TareaInvestigacion\LineaAerea\LineaAerea\bin\Debug\LineaAerea.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TareaInvestigacion\LineaAerea\LineaAerea\bin\Debug\LineaAerea.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TareaInvestigacion\LineaAerea\LineaAerea\obj\Debug\LineaAerea.csproj.AssemblyReference.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TareaInvestigacion\LineaAerea\LineaAerea\obj\Debug\LineaAerea.csproj.SuggestedBindingRedirects.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TareaInvestigacion\LineaAerea\LineaAerea\obj\Debug\LineaAerea.Form1.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TareaInvestigacion\LineaAerea\LineaAerea\obj\Debug\LineaAerea.Properties.Resources.resources
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TareaInvestigacion\LineaAerea\LineaAerea\obj\Debug\LineaAerea.csproj.GenerateResource.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TareaInvestigacion\LineaAerea\LineaAerea\obj\Debug\LineaAerea.csproj.CoreCompileInputs.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TareaInvestigacion\LineaAerea\LineaAerea\obj\Debug\LineaAerea.exe
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\TareaInvestigacion\LineaAerea\LineaAerea\obj\Debug\LineaAerea.pdb

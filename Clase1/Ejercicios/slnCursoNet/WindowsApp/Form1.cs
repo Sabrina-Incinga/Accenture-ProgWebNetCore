@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entidades.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,7 +8,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WindowsApp.Models;
 
 namespace WindowsApp
 {
@@ -25,7 +25,7 @@ namespace WindowsApp
 
         private void btn_showProduct_Click(object sender, EventArgs e)
         {
-            Proveedor proveedor = new Proveedor() { Nombre = "Pedro Picapiedra", Contacto = "pedro1@mail.com", CUIT = "27-25468421-2", Email = "pedrito@mail.com", Direccion = "Calle oscura numero tanteando", Telefono = "3846578912" };
+            Empresa proveedor = new Empresa() { Nombre = "Pedro Picapiedra", Contacto = "pedro1@mail.com", CUIT = "27-25468421-2", Email = "pedrito@mail.com", Direccion = "Calle oscura numero tanteando", Telefono = "3846578912" };
             Producto producto = new Producto();
             producto.Nombre = "Auricular bluetooth";
             producto.Descripcion = "Auricular con cancelación de sonido y bluetooth";

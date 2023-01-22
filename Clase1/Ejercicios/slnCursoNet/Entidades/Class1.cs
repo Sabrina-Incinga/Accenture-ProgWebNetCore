@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsApp.Models
+namespace Entidades
 {
-    public class Factura : Documento
+    public class Class1
     {
-        public string Tipo { get; set; }
     }
 }

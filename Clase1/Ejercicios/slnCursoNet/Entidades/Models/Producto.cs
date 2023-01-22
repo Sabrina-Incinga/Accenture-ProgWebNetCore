@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsApp.Models
+namespace Entidades.Models
 {
     public class Producto
     {
@@ -32,7 +32,7 @@ namespace WindowsApp.Models
             }
         }
 
-        public Proveedor Proveedor { get; set; }
+        public Empresa Proveedor { get; set; }
         public string Categoria { get; set; }
         public string SubCategoria { get; set; }
 

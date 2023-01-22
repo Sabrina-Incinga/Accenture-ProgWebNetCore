@@ -52,15 +52,6 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Models\ClienteEmpresa.cs" />
-    <Compile Include="Models\ClienteIndividuo.cs" />
-    <Compile Include="Models\Documento.cs" />
-    <Compile Include="Models\Persona.cs" />
-    <Compile Include="Models\Factura.cs" />
-    <Compile Include="Models\Producto.cs" />
-    <Compile Include="Models\Proveedor.cs" />
-    <Compile Include="Models\Remito.cs" />
-    <Compile Include="Models\Vendedor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -88,6 +79,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{5bebfe85-c2ad-47bb-8f41-c9e1a3029582}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,6 @@
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase1\Ejercicios\slnCursoNet\Entidades\bin\Debug\Entidades.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase1\Ejercicios\slnCursoNet\Entidades\bin\Debug\Entidades.pdb
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase1\Ejercicios\slnCursoNet\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase1\Ejercicios\slnCursoNet\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase1\Ejercicios\slnCursoNet\Entidades\obj\Debug\Entidades.dll
+H:\Sabrina\Accenture\ProgramaciónWebNetCore\Accenture-ProgWebNetCore\Clase1\Ejercicios\slnCursoNet\Entidades\obj\Debug\Entidades.pdb

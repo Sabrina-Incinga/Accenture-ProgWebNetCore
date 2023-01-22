@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsApp.Models
+namespace Entidades.Models
 {
-    public class Documento
+    public abstract class Documento
     {
         public string Numero { get; set; }
         public DateTime Fecha { get; set; }

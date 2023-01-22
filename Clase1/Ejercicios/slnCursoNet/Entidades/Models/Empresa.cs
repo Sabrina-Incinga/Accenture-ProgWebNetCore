@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsApp.Models
+namespace Entidades.Models
 {
-    public class ClienteEmpresa : Persona
+    public class Empresa : Persona
     {
         public string CUIT { get; set; }
         public string Contacto { get; set; }

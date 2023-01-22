@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsApp.Models
+namespace Entidades.Models
 {
-    public class Remito : Documento
+    public class Factura : Documento
     {
-        public DateTime FechaEntrega { get; set; }
+        public string Tipo { get; set; }
     }
 }

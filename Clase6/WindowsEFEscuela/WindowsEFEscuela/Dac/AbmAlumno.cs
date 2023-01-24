@@ -8,7 +8,7 @@ using WindowsEFEscuela.Models;
 
 namespace WindowsEFEscuela.Dac
 {
-    public class AbmAlumno
+    public static class AbmAlumno
     {
         private static DbEscuelaBootcampContext context = new DbEscuelaBootcampContext();
 
